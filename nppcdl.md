@@ -7,7 +7,7 @@ permalink: /downloads/
 Download link:
 ===
 
-[Click here to download the latest server](https://rebrand.ly/npdownloads)
+[Click here to download the latest server](https://drive.google.com/open?id=1DwBzZK3X0vowb5X1Czcg5C9X3VKWKUwn)
 
 Instructions:
 ===
