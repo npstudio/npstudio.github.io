@@ -1,13 +1,13 @@
 ---
 layout: page
-title: N&P Remote Mouse and Keyboard Server Download
-permalink: /nppcdl/
+title: N&P Remote Mouse and Keyboard PC Server Download
+permalink: /downloads/
 ---
 
 Download link:
 ===
 
-[Click here to download the latest server](http://example.com)
+[Click here to download the latest server](https://rebrand.ly/npdownloads)
 
 Instructions:
 ===
@@ -19,4 +19,6 @@ Instructions:
 Troubleshoot
 ===
 
-If you are experiencing problems with the newest server, please try the [legacy server]()
+If you are experiencing problems with the newest server, please try the [legacy server](https://drive.google.com/drive/folders/0BwzlyzWtfzcZTVdweEdoUTE2d2c)
+
+If the server failed to start, please try to [install MC VC++ 2008 Runtime](https://drive.google.com/drive/folders/0BwzlyzWtfzcZaENJSDBTUDJjZzg)
