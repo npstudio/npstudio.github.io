@@ -4,10 +4,10 @@ title: N&P Remote Mouse and Keyboard PC Server Download
 permalink: /downloads/
 ---
 
-Download link:
+Download:
 ===
 
-[Click here to download the latest server](https://drive.google.com/open?id=1DwBzZK3X0vowb5X1Czcg5C9X3VKWKUwn)
+[Click here to download the latest server](/dlpage)
 
 Instructions:
 ===
