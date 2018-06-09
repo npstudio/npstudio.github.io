@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /dlpage/
+title: Our Facebook
 ---
 
 Would you want to like our Facebook Page to receive updates from us?
